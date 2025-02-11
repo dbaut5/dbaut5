@@ -11,3 +11,4 @@ Hi! My name is Daniel Bautista. Here is a little bit about me:
 -  Pronouns: he/him
 -  Fun fact: ...
  
+Ever since I got my first computer, I've been passionate about all things computer science. I just love being able to bring an idea to life with just a couple lines of code. In high school, I built my first mock website of Twitter using HTML, CSS, & JavaScript. My passion carried into my education at UIC, where I am currently learning machine organization and assembly language. 
