@@ -1,0 +1,13 @@
+## Hi there 👋
+
+<!--
+
+-  I’m currently working on improving my CS-themed Hangman game using Python turtle graphics.
+-  I’m currently learning machine organization and assembly language
+-  I’m looking to collaborate on ...
+-  I’m looking for help with ...
+-  Ask me about ...
+-  How to reach me: Email: danielbautista05@gmail.com 
+-  Pronouns: he/him
+-  Fun fact: ...
+-->
