@@ -1,9 +1,17 @@
-Hi! My name is Daniel Bautista. Here is a little bit about me:
+Hi! My name is Daniel Bautista. I'm a Computer Science undergraduate student at UIC with a passion for software development, web development, 
+and cybersecurity. I love creating solutions to common problems such as creating a budget, writing a resume, etc. I am always striving to learn something new--currently, it's
+assembly language and low-level machine organization.
 
--  I'm currently pursuing a Bachelor's in Computer Science at UIC (Expected May 2027)
--  I'm passionate about Software Development, Web Development, and Cybersecurity.
--  I’m currently working on improving my CS-themed Hangman game that uses Python turtle graphics.
--  I’m currently learning about machine organization and assembly language
--  I’m looking for help with incorporating AI into my projects.
--  How to reach me: Email: danielbautista05@gmail.com
--  Pronouns: he/him
+Some of my skills include:
+- Python
+- C/C++
+- HTML, CSS, JS
+- Bootstrap
+- Git version control
+- UX Research + Design
+- Responsive Design
+
+Here are some things I am currently working on:
+- CS-themed Hangman game using Python Turtle Graphics
+- AI-assisted Resume Builder
+
