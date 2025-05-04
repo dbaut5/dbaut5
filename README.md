@@ -15,3 +15,5 @@ Here are some things I am currently working on:
 - CS-themed Hangman game using Python Turtle Graphics
 - AI-assisted Resume Builder
 
+For inquiries, you may contact me at danielbautista05@gmail.com
+
